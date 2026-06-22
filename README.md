@@ -1,8 +1,8 @@
-<h1 align="center">Olá 👋, eu sou o Paulo Vitor Lima Domingues</h1>
+<h1 align="center">Olá 👋, eu sou o Paulo Vitor Domingues</h1>
 
 <p align="center">
-  💻 Desenvolvedor <strong>Backend</strong> com foco em <strong>PHP</strong>, <strong>Laravel</strong> e <strong>MySQL</strong><br>
-  🔍 Em constante aprendizado e sempre buscando escrever código limpo e performático
+  💻 Desenvolvedor <strong>Backend Java</strong> com foco em <strong>Spring Boot</strong> e <strong>Banco de Dados</strong><br>
+  🔍 Em constante aprendizado, focado em código limpo, arquitetura sólida e performance.
 </p>
 
 ---
@@ -10,12 +10,22 @@
 ### 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
 </p>
+
+---
+
+### 🧠 Sobre mim
+
+- 🛠️ **Stack Principal:** `Java` • `Spring Boot` • `PostgreSQL` • `MySQL`
+- 🧩 **Interesses:** Desenvolvimento de APIs RESTful, modelagem de banco de dados e microsserviços.
+- 🌱 **Estudando no momento:** Clean Code, Estruturas de Dados e Docker.
+- 🇧🇷 São Paulo, Brasil
 
 ---
 
@@ -27,17 +37,6 @@
 </div>
 
 ---
-
-### 🧠 Sobre mim
-
-- 🛠️ Tecnologias: `PHP` • `Laravel` • `MySQL`  
-- 🧩 Gosto de resolver problemas de backend e criar jogos  
-- 🌱 Estudando: Código limpo, Estrutura de dados e Docker  
-- 🇧🇷  São Paulo
-- ☕ Café, código e RPGs 
-
----
-
 
 ### 📬 Contato
 
